@@ -1,0 +1,2 @@
+# Driver-Drowsiness-
+The proposed work is to alert the driver when he is drowsy or distracted away from his normal alert mode by means of buzzer or mechanical vibrations. In this project real time data is collected by video camera and other micro electro-mechanical system devices. This data gives information about driving condition of driver which acts as input to controller. The appropriate measures are taken by controller to alert the driver.
